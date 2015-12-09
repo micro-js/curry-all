@@ -11,7 +11,7 @@
   "dependencies": {
     "@micro-js/curry-once": "^1.2.0",
     "@micro-js/is-function": "^1.0.4",
-    "@micro-js/map-obj": "^1.1.1"
+    "@micro-js/map-obj": "^1.1.2"
   },
   "devDependencies": {
     "tape": "^4.2.2"
