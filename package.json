@@ -2,7 +2,7 @@
   "name": "@micro-js/curry-all",
   "description": "Curry all of the functions in an object",
   "repository": "git://github.com/micro-js/curry-all.git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
