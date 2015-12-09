@@ -1,0 +1,19 @@
+{
+  "name": "@micro-js/curry-all",
+  "description": "Curry all of the functions in an object",
+  "repository": "git://github.com/micro-js/curry-all.git",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish --access=public"
+  },
+  "dependencies": {
+    "@micro-js/curry-once": "^1.2.0",
+    "@micro-js/is-function": "^1.0.4",
+    "@micro-js/map-obj": "^1.1.1"
+  },
+  "devDependencies": {
+    "tape": "^4.2.2"
+  }
+}
