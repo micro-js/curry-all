@@ -10,12 +10,12 @@ Curry all of the functions in an object
 
 ## Installation
 
-    $ npm install @micro-js/curry-all
+    $ npm install @f/curry-all
 
 ## Usage
 
 ```js
-var curryAll = require('@micro-js/curry-all')
+var curryAll = require('@f/curry-all')
 
 var a = {test: add}
 var b = curryAll(a)
@@ -46,5 +46,5 @@ MIT
 [git-url]: https://github.com/micro-js/curry-all
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/curry-all.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/curry-all
+[npm-image]: https://img.shields.io/npm/v/@f/curry-all.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/curry-all
